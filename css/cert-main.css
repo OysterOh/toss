@@ -46,9 +46,9 @@
     header .nav>.gnb{
         display: none;
     }
-
-    
 }
+
+/* header */
 header {
     position: relative;
 }
@@ -184,10 +184,6 @@ section {
 
 .w3-img {
     width: 522px;
-}
-
-body {
-    /* width: 100%; */
 }
 
 header .name img {
